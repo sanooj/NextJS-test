@@ -1,0 +1,410 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home should render my component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="min-h-full"
+        data-testid="layout"
+      >
+        <nav
+          class="bg-gray-800"
+        >
+          <div
+            class="container mx-auto"
+          >
+            <div
+              class="relative flex items-center justify-between h-16"
+            >
+              <div
+                class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start"
+              >
+                <div
+                  class="flex-shrink-0 flex items-center"
+                >
+                  <img
+                    alt="Workflow"
+                    class="hidden lg:block h-8 w-auto"
+                    src="https://tailwindui.com/img/logos/workflow-logo-indigo-500-mark-white-text.svg"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </nav>
+        <div
+          class="container mx-auto py-12"
+        >
+          <div
+            class="flex flex-col"
+          >
+            <div
+              class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8"
+            >
+              <div
+                class="py-2 align-middle inline-block min-w-full sm:px-6 lg:px-8"
+              >
+                <form
+                  class="mb-6"
+                >
+                  <div
+                    class="bg-indigo-600"
+                  >
+                    <div
+                      class="max-w-7xl mx-auto py-3 px-3 sm:px-6 lg:px-8"
+                    >
+                      <div
+                        class="flex items-center justify-between flex-wrap"
+                      >
+                        <div
+                          class="w-0 flex-1 flex items-center"
+                        >
+                          <input
+                            class="w-full focus:ring-indigo-500 focus:border-indigo-500 block pl-7 pr-12 sm:text-sm border-b border-gray-300 rounded-md mx-10"
+                            id="startAt"
+                            name="startAt"
+                            placeholder="Start Time"
+                            type="datetime-local"
+                          />
+                        </div>
+                        <div
+                          class="w-0 flex-1 flex items-center"
+                        >
+                          <input
+                            class="w-full focus:ring-indigo-500 focus:border-indigo-500 block pl-7 pr-12 sm:text-sm border-b border-gray-300 rounded-md mx-10"
+                            id="endsAt"
+                            name="endsAt"
+                            placeholder="End Time"
+                            type="datetime-local"
+                          />
+                        </div>
+                        <div
+                          class=" flex-shrink-0  sm:ml-3"
+                        >
+                          <button
+                            class="bg-transparent text-white font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-white rounded"
+                            type="submit"
+                          >
+                            Search
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </form>
+                <div
+                  class="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg min-h-full"
+                >
+                  <div
+                    class="flex justify-center items-center py-20"
+                  >
+                    <svg
+                      height="30px"
+                      id="Layer_1"
+                      version="1.1"
+                      viewBox="0 0 24 30"
+                      width="24px"
+                      x="0px"
+                      xmlns="http://www.w3.org/2000/svg"
+                      y="0px"
+                    >
+                      <rect
+                        fill="#333"
+                        height="10"
+                        width="4"
+                        x="0"
+                        y="0"
+                      >
+                        <animatetransform
+                          attributeName="transform"
+                          attributeType="xml"
+                          begin="0"
+                          dur="0.6s"
+                          repeatCount="indefinite"
+                          type="translate"
+                          values="0 0; 0 20; 0 0"
+                        />
+                      </rect>
+                      <rect
+                        fill="#333"
+                        height="10"
+                        width="4"
+                        x="10"
+                        y="0"
+                      >
+                        <animatetransform
+                          attributeName="transform"
+                          attributeType="xml"
+                          begin="0.2s"
+                          dur="0.6s"
+                          repeatCount="indefinite"
+                          type="translate"
+                          values="0 0; 0 20; 0 0"
+                        />
+                      </rect>
+                      <rect
+                        fill="#333"
+                        height="10"
+                        width="4"
+                        x="20"
+                        y="0"
+                      >
+                        <animatetransform
+                          attributeName="transform"
+                          attributeType="xml"
+                          begin="0.4s"
+                          dur="0.6s"
+                          repeatCount="indefinite"
+                          type="translate"
+                          values="0 0; 0 20; 0 0"
+                        />
+                      </rect>
+                    </svg>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="flex justify-center align-center pt-6"
+              >
+                <button
+                  class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded"
+                >
+                  Load More
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="min-h-full"
+      data-testid="layout"
+    >
+      <nav
+        class="bg-gray-800"
+      >
+        <div
+          class="container mx-auto"
+        >
+          <div
+            class="relative flex items-center justify-between h-16"
+          >
+            <div
+              class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start"
+            >
+              <div
+                class="flex-shrink-0 flex items-center"
+              >
+                <img
+                  alt="Workflow"
+                  class="hidden lg:block h-8 w-auto"
+                  src="https://tailwindui.com/img/logos/workflow-logo-indigo-500-mark-white-text.svg"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div
+        class="container mx-auto py-12"
+      >
+        <div
+          class="flex flex-col"
+        >
+          <div
+            class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8"
+          >
+            <div
+              class="py-2 align-middle inline-block min-w-full sm:px-6 lg:px-8"
+            >
+              <form
+                class="mb-6"
+              >
+                <div
+                  class="bg-indigo-600"
+                >
+                  <div
+                    class="max-w-7xl mx-auto py-3 px-3 sm:px-6 lg:px-8"
+                  >
+                    <div
+                      class="flex items-center justify-between flex-wrap"
+                    >
+                      <div
+                        class="w-0 flex-1 flex items-center"
+                      >
+                        <input
+                          class="w-full focus:ring-indigo-500 focus:border-indigo-500 block pl-7 pr-12 sm:text-sm border-b border-gray-300 rounded-md mx-10"
+                          id="startAt"
+                          name="startAt"
+                          placeholder="Start Time"
+                          type="datetime-local"
+                        />
+                      </div>
+                      <div
+                        class="w-0 flex-1 flex items-center"
+                      >
+                        <input
+                          class="w-full focus:ring-indigo-500 focus:border-indigo-500 block pl-7 pr-12 sm:text-sm border-b border-gray-300 rounded-md mx-10"
+                          id="endsAt"
+                          name="endsAt"
+                          placeholder="End Time"
+                          type="datetime-local"
+                        />
+                      </div>
+                      <div
+                        class=" flex-shrink-0  sm:ml-3"
+                      >
+                        <button
+                          class="bg-transparent text-white font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-white rounded"
+                          type="submit"
+                        >
+                          Search
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </form>
+              <div
+                class="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg min-h-full"
+              >
+                <div
+                  class="flex justify-center items-center py-20"
+                >
+                  <svg
+                    height="30px"
+                    id="Layer_1"
+                    version="1.1"
+                    viewBox="0 0 24 30"
+                    width="24px"
+                    x="0px"
+                    xmlns="http://www.w3.org/2000/svg"
+                    y="0px"
+                  >
+                    <rect
+                      fill="#333"
+                      height="10"
+                      width="4"
+                      x="0"
+                      y="0"
+                    >
+                      <animatetransform
+                        attributeName="transform"
+                        attributeType="xml"
+                        begin="0"
+                        dur="0.6s"
+                        repeatCount="indefinite"
+                        type="translate"
+                        values="0 0; 0 20; 0 0"
+                      />
+                    </rect>
+                    <rect
+                      fill="#333"
+                      height="10"
+                      width="4"
+                      x="10"
+                      y="0"
+                    >
+                      <animatetransform
+                        attributeName="transform"
+                        attributeType="xml"
+                        begin="0.2s"
+                        dur="0.6s"
+                        repeatCount="indefinite"
+                        type="translate"
+                        values="0 0; 0 20; 0 0"
+                      />
+                    </rect>
+                    <rect
+                      fill="#333"
+                      height="10"
+                      width="4"
+                      x="20"
+                      y="0"
+                    >
+                      <animatetransform
+                        attributeName="transform"
+                        attributeType="xml"
+                        begin="0.4s"
+                        dur="0.6s"
+                        repeatCount="indefinite"
+                        type="translate"
+                        values="0 0; 0 20; 0 0"
+                      />
+                    </rect>
+                  </svg>
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex justify-center align-center pt-6"
+            >
+              <button
+                class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 border border-blue-700 rounded"
+              >
+                Load More
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

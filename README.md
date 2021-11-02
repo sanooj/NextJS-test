@@ -13,4 +13,18 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-## Basics
+For Tesing
+```bash
+npm run test
+# or
+yarn test
+```
+
+## Modules
+Used next.js for server side rendering
+UI: TailwindUI
+Test: Jest, react testing library
+Api : Axios
+
+# UI Config
+Tailwind css with default font Roboto

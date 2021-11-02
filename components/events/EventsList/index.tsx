@@ -1,4 +1,3 @@
-import { count } from "console";
 import { NextPage } from "next";
 import { SetStateAction, useEffect, useState } from "react";
 import Event from "./Event";

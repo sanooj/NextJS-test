@@ -26,5 +26,5 @@ UI: TailwindUI
 Test: Jest, react testing library
 Api : Axios
 
-# UI Config
+### UI Config
 Tailwind css with default font Roboto

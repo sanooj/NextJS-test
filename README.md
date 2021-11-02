@@ -21,10 +21,11 @@ yarn test
 ```
 
 ## Modules
-#### Used next.js for server side rendering
+#### Used next.js(v:12.0.1) for server side rendering
+#### react(v:17.0.2)
 #### UI: TailwindUI
-#### Test: Jest, react testing library
-#### Api : Axios
+#### Test: Jest(v:27.3.1), react testing library (v:12.1.2)
+#### Api : Axios (v:^0.24.0)
 
 ### UI Config
 Tailwind css with default font Roboto
